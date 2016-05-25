@@ -2,15 +2,16 @@
 
 This is starting to experiment with the UCI record linkage comparison data.
 
-- contact: fettermania@gmail.com
+contact: fettermania@gmail.com
+
 - TODO:
+    - Put data itself in github?  
     - Cache results of reading files in.
     - Figure out missing edge weight strategy (steal from ds-exp/clustering)
     - Start basic machine learning
     
 # Usage
 
-(TODO: Put data in github)
 - Snag the data set from https://archive.ics.uci.edu/ml/datasets/Record+Linkage+Comparison+Patterns
 - Extract all block_1.csv through block_10.csv and move under "resources/uci/"
 
